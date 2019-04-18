@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <CustomAction
+        Title="SpWebScriptCSSLink"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ClientSideComponentId="60273f3c-cc9f-4b9f-8e43-2e04d9a8f9ce"
+        ClientSideComponentProperties="{}">
+    </CustomAction>
+    <Module Name="MasterPages" List="116" Url="_catalogs/masterpage">
+        <File Path="readme-css.html" Url="Styles/readme-css.html" Type="GhostableInLibrary" ReplaceContent="TRUE" />
+        <File Path="readme-js.html" Url="Scripts/readme-css.html" Type="GhostableInLibrary" ReplaceContent="TRUE" />
+    </Module>
+</Elements>

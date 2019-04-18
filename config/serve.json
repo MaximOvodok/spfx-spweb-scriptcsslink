@@ -1,0 +1,23 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/core-build/serve.schema.json",
+  "port": 4321,
+  "https": true,
+  "serveConfigurations": {
+    "default": {
+      "pageUrl": "https://itechart2016.sharepoint.com/sites/dev/SitePages/Modern-Test.aspx",
+      "customActions": {
+        "60273f3c-cc9f-4b9f-8e43-2e04d9a8f9ce": {
+          "location": "ClientSideExtension.ApplicationCustomizer"
+        }
+      }
+    },
+    "spWebScriptCSSLink": {
+      "pageUrl": "https://itechart2016.sharepoint.com/sites/dev/SitePages/Modern-Test.aspx",
+      "customActions": {
+        "60273f3c-cc9f-4b9f-8e43-2e04d9a8f9ce": {
+          "location": "ClientSideExtension.ApplicationCustomizer"
+        }
+      }
+    }
+  }
+}

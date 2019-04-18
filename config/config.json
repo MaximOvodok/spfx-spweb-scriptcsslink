@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "spweb-scriptcsslink-application-customizer": {
+      "components": [
+        {
+          "entrypoint": "./lib/extensions/spWebScriptCSSLink/SpWebScriptCSSLinkApplicationCustomizer.js",
+          "manifest": "./src/extensions/spWebScriptCSSLink/SpWebScriptCSSLinkApplicationCustomizer.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "SpWebScriptCSSLinkApplicationCustomizerStrings": "lib/extensions/spWebScriptCSSLink/loc/{locale}.js"
+  }
+}
