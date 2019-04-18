@@ -3,7 +3,7 @@ SPFx extension which allows to apply customizations by CSS and JavaScript for Sh
 
 How to install:
 1. Clone the repository and open solution in VSCode
-2. Open terminal enter next commands:
+2. Open terminal and enter next commands:
 ```shell
 npm install
 gulp bundle --ship
