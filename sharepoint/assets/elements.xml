@@ -8,6 +8,6 @@
     </CustomAction>
     <Module Name="MasterPages" List="116" Url="_catalogs/masterpage">
         <File Path="readme-css.html" Url="Styles/readme-css.html" Type="GhostableInLibrary" ReplaceContent="TRUE" />
-        <File Path="readme-js.html" Url="Scripts/readme-css.html" Type="GhostableInLibrary" ReplaceContent="TRUE" />
+        <File Path="readme-js.html" Url="Scripts/readme-js.html" Type="GhostableInLibrary" ReplaceContent="TRUE" />
     </Module>
 </Elements>
