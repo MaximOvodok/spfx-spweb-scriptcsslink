@@ -4,7 +4,7 @@
   "https": true,
   "serveConfigurations": {
     "default": {
-      "pageUrl": "https://itechart2016.sharepoint.com/sites/dev/SitePages/Modern-Test.aspx",
+      "pageUrl": "<!-- Modern Page Url -->",
       "customActions": {
         "60273f3c-cc9f-4b9f-8e43-2e04d9a8f9ce": {
           "location": "ClientSideExtension.ApplicationCustomizer"
@@ -12,7 +12,7 @@
       }
     },
     "spWebScriptCSSLink": {
-      "pageUrl": "https://itechart2016.sharepoint.com/sites/dev/SitePages/Modern-Test.aspx",
+      "pageUrl": "<!-- Modern Page Url -->",
       "customActions": {
         "60273f3c-cc9f-4b9f-8e43-2e04d9a8f9ce": {
           "location": "ClientSideExtension.ApplicationCustomizer"
